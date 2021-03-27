@@ -1,4 +1,3 @@
-root@ubuntu:~# cat Dockerfile 
 FROM centos:8
 MAINTAINER 705jul
 LABEL "purpose"="TEST"
